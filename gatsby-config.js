@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "chris-retry",
+    title: "Chris R",
   },
   plugins: [
+    "gatsby-plugin-material-ui",
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-sass",
     "gatsby-plugin-gatsby-cloud",
